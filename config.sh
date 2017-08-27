@@ -47,11 +47,12 @@ LATESTARTSERVICE=true
 # Set what you want to show when installing your mod
 
 print_modname() {
-  ui_print "**************************"
-  ui_print " SEEDER (entropy)"
-  ui_print "koko115 XDA"
-  ui_print "After install go to console type su and entro for see how works"
-  ui_print "**************************"
+  ui_print "*******************************************************************"
+  ui_print "                        SEEDER (entropy)                           "
+  ui_print "                         koko115 @XDA                              "
+  ui_print "                                                                   "
+  ui_print " After install go to console type su and entro - for see how works "
+  ui_print "*******************************************************************"
 }
 
 ##########################################################################################
